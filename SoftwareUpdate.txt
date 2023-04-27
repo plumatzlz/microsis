@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add horizontal Mosaic3 augmentation (#6898)

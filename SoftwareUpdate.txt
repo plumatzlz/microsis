@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)

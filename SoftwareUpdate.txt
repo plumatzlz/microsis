@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Python refactorings and simplifications (#7549)

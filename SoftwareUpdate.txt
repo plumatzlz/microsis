@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update H1 in Explorer API docs (#7813)

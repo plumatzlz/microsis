@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Improve Docs Modes tables (#8266)

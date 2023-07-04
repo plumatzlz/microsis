@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add docs guide terminal images (#8819)

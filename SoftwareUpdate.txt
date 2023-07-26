@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Update fraction arg to employ a random selection (#8234)

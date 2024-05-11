@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add horizontal Mosaic3 augmentation (#6898)

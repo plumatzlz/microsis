@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
